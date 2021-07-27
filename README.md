@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abhishek765" alt="abhishek765" /> </p>
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhishek765](https://github.com/Abhishek765)
-- 👨‍💻 Visit my Portfolio [https://abhishek765.github.io/](https://abhishek765.github.io/)
+- 👨‍💻 Visit my Portfolio [https://Abhishek765.github.io/portfolio/](https://Abhishek765.github.io/portfolio/)
 
 - 📫 How to reach me **vishwakarmaabhishek31@gmail.com**
 
