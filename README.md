@@ -9,7 +9,7 @@ Abhishek Vishwakarma is a Software Engineer with a keen interest in learning new
 * 🌍  I'm based in Bangalore, India
 * 🖥️  See my portfolio at [My Portfolio](http://Abhishek765.github.io/portfolio/)
 * ✉️  You can contact me at [vishwakarmaabhishek31@gmail.com](mailto:vishwakarmaabhishek31@gmail.com)
-* 🚀  I'm currently working on [FlyFin AI](http://flyfin.tax/)
+* 🚀  I'm currently working at [FlyFin AI](http://flyfin.tax/)
 * 🧠  I'm learning DevOps and System Design (LLD and HLD) to build better systems
 
 ### Skills
