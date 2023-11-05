@@ -38,6 +38,12 @@ Abhishek Vishwakarma is a Software Engineer with a keen interest in learning new
 </p>
 
 
+<!---  
+ <br>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhishek765&show_icons=true&theme=radical&line_height=27" alt="Abhishek765's github stats" />
+</a>
+-->
 ### Socials
 
 <p align="left"> <a href="https://www.github.com/Abhishek765" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/abhishek-vishwakarma17" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@vishwakarmaabhishek31" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/Abhishe15350708" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
