@@ -16,9 +16,11 @@ Abhishek Vishwakarma is a Software Engineer with a keen interest in learning new
 
 <h1>My GitHub Stats and Skills <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="48" /></h1>
 
+<!--
 <span><a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Abhishek765&show_icons=true&theme=radical&line_height=27" alt="Abhishek765's github stats" />
 </a></span>
+-->
 
 | 💻 **Category** | 🚀 **Skills** |
 | - | - |
